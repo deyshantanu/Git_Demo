@@ -1,9 +1,0 @@
-#add implementation
-def add(X,Y):
-    pass
-def subtract(X,Y):
-    pass
-def multiply(X,Y):
-    pass
-def divide(X,Y):
-    pass
